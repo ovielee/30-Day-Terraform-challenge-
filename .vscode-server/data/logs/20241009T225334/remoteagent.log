@@ -1,0 +1,12 @@
+2024-10-09 22:53:35.062 [info] 
+
+
+
+
+2024-10-09 22:53:35.079 [info] Extension host agent started.
+2024-10-09 22:53:35.263 [info] [127.0.0.1][59aee26c][ManagementConnection] New connection established.
+2024-10-09 22:53:36.286 [info] [127.0.0.1][6057a20a][ExtensionHostConnection] New connection established.
+2024-10-09 22:53:36.344 [info] [127.0.0.1][6057a20a][ExtensionHostConnection] <346726> Launched Extension Host Process.
+2024-10-09 22:53:46.574 [error] [File Watcher (parcel)] Unexpected error: No such file or directory (EUNKNOWN) (path: /)
+2024-10-09 22:53:46.575 [error] [File Watcher (universal)] No such file or directory
+2024-10-09 23:24:53.601 [info] [127.0.0.1][59aee26c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

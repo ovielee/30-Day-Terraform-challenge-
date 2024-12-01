@@ -1,0 +1,40 @@
+2024-10-14 11:02:16.614 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.16.1)
+2024-10-14 11:02:19.392 [info] [Info  - 11:02:19 AM] (228366) Server root directory: file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-14 11:02:19.395 [info] [Info  - 11:02:19 AM] (228366) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-14 11:02:19.396 [info] [Info  - 11:02:19 AM] (228366) Starting service instance "wsl+ubuntu"
+2024-10-14 11:02:19.801 [info] [Info  - 11:02:19 AM] (228366) Setting environmentName for service "wsl+ubuntu": "3.10.12 (global)"
+2024-10-14 11:02:19.803 [info] [Info  - 11:02:19 AM] (228366) Setting pythonPath for service "wsl+ubuntu": "/bin/python3"
+2024-10-14 11:02:19.805 [info] [Info  - 11:02:19 AM] (228366) No include entries specified; assuming /
+2024-10-14 11:02:19.806 [info] [Info  - 11:02:19 AM] (228366) Auto-excluding **/node_modules
+2024-10-14 11:02:19.807 [info] [Info  - 11:02:19 AM] (228366) Auto-excluding **/__pycache__
+2024-10-14 11:02:19.833 [info] [Info  - 11:02:19 AM] (228366) Auto-excluding **/.*
+2024-10-14 11:02:19.964 [info] [Info  - 11:02:19 AM] (228366) Assuming Python version 3.10.12.final.0
+2024-10-14 11:02:20.864 [info] [Warn  - 11:02:20 AM] (228366) Skipping recursive symlink "file:///bin/X11" -> "file:///usr/bin"
+2024-10-14 11:02:30.779 [info] [Error - 11:02:30 AM] (228366) Enumeration of workspace source files is taking longer than 10 seconds.
+This may be because:
+* You have opened your home directory or entire hard drive as a workspace
+* Your workspace contains a very large number of directories and files
+* Your workspace contains a symlink to a directory with many files
+* Your workspace is remote, and file enumeration is slow
+To reduce this time, open a workspace directory with fewer files or add a pyrightconfig.json configuration file with an "exclude" section to exclude subdirectories from your workspace. For more details, refer to https://github.com/microsoft/pyright/blob/main/docs/configuration.md.
+2024-10-14 11:02:46.300 [info] [Warn  - 11:02:46 AM] (228366) Skipping recursive symlink "file:///mnt/c/Documents%20and%20Settings/All%20Users/Application%20Data" -> "file:///mnt/c/ProgramData"
+2024-10-14 11:05:24.229 [info] [Warn  - 11:05:24 AM] (228366) Skipping recursive symlink "file:///mnt/c/Documents%20and%20Settings/Default/AppData/Local/Application%20Data" -> "file:///mnt/c/Users/Default/AppData/Local"
+2024-10-14 11:05:28.376 [info] [Warn  - 11:05:28 AM] (228366) Skipping recursive symlink "file:///mnt/c/Documents%20and%20Settings/Default/Local%20Settings/Application%20Data" -> "file:///mnt/c/Users/Default/AppData/Local"
+2024-10-14 11:05:31.910 [info] [Warn  - 11:05:31 AM] (228366) Skipping recursive symlink "file:///mnt/c/Documents%20and%20Settings/Default%20User/AppData/Local/Application%20Data" -> "file:///mnt/c/Users/Default/AppData/Local"
+2024-10-14 11:05:37.104 [info] [Warn  - 11:05:37 AM] (228366) Skipping recursive symlink "file:///mnt/c/Documents%20and%20Settings/Default%20User/Local%20Settings/Application%20Data" -> "file:///mnt/c/Users/Default/AppData/Local"
+2024-10-14 11:05:42.600 [info] [Warn  - 11:05:42 AM] (228366) Skipping recursive symlink "file:///mnt/c/Documents%20and%20Settings/OvieBluecode/AppData/Local/Application%20Data" -> "file:///mnt/c/Users/OvieBluecode/AppData/Local"
+2024-10-14 11:22:28.968 [info] [Info  - 11:22:28 AM] (228366) Auto-excluding /mnt/c/Documents and Settings/OvieBluecode/AppData/Roaming/IBM/SPSS Statistics/one/Python310
+2024-10-14 11:35:52.746 [info] [Info  - 11:35:52 AM] (228366) Auto-excluding /mnt/c/Documents and Settings/OvieBluecode/Application Data/IBM/SPSS Statistics/one/Python310
+2024-10-14 11:47:21.439 [info] [Warn  - 11:47:21 AM] (228366) Skipping recursive symlink "file:///mnt/c/Documents%20and%20Settings/OvieBluecode/Local%20Settings/Application%20Data" -> "file:///mnt/c/Users/OvieBluecode/AppData/Local"
+2024-10-14 12:25:19.920 [info] [Info  - 12:25:19 PM] (228366) Auto-excluding /mnt/c/Program Files/Microsoft SQL Server/150/PYTHON_SERVER
+2024-10-14 12:26:24.468 [info] [Info  - 12:26:24 PM] (228366) Auto-excluding /mnt/c/Program Files/Microsoft SQL Server/MSSQL15.MSSQLSERVER/PYTHON_SERVICES
+2024-10-14 12:31:50.476 [info] [Warn  - 12:31:50 PM] (228366) Skipping recursive symlink "file:///mnt/c/ProgramData/Application%20Data" -> "file:///mnt/c/ProgramData"
+2024-10-14 12:33:32.334 [info] [Warn  - 12:33:32 PM] (228366) Skipping recursive symlink "file:///mnt/c/Users/All%20Users/Application%20Data" -> "file:///mnt/c/ProgramData"
+2024-10-14 12:35:54.634 [info] [Warn  - 12:35:54 PM] (228366) Skipping recursive symlink "file:///mnt/c/Users/Default/AppData/Local/Application%20Data" -> "file:///mnt/c/Users/Default/AppData/Local"
+2024-10-14 12:35:59.627 [info] [Warn  - 12:35:59 PM] (228366) Skipping recursive symlink "file:///mnt/c/Users/Default/Local%20Settings/Application%20Data" -> "file:///mnt/c/Users/Default/AppData/Local"
+2024-10-14 12:36:03.232 [info] [Warn  - 12:36:03 PM] (228366) Skipping recursive symlink "file:///mnt/c/Users/Default%20User/AppData/Local/Application%20Data" -> "file:///mnt/c/Users/Default/AppData/Local"
+2024-10-14 12:36:08.148 [info] [Warn  - 12:36:08 PM] (228366) Skipping recursive symlink "file:///mnt/c/Users/Default%20User/Local%20Settings/Application%20Data" -> "file:///mnt/c/Users/Default/AppData/Local"
+2024-10-14 12:36:13.424 [info] [Warn  - 12:36:13 PM] (228366) Skipping recursive symlink "file:///mnt/c/Users/OvieBluecode/AppData/Local/Application%20Data" -> "file:///mnt/c/Users/OvieBluecode/AppData/Local"
+2024-10-14 12:53:19.739 [info] [Info  - 12:53:19 PM] (228366) Auto-excluding /mnt/c/Users/OvieBluecode/AppData/Roaming/IBM/SPSS Statistics/one/Python310
+2024-10-14 13:01:50.169 [info] [Info  - 1:01:50 PM] (228366) Auto-excluding /mnt/c/Users/OvieBluecode/Application Data/IBM/SPSS Statistics/one/Python310
+2024-10-14 13:11:04.808 [info] [Warn  - 1:11:04 PM] (228366) Skipping recursive symlink "file:///mnt/c/Users/OvieBluecode/Local%20Settings/Application%20Data" -> "file:///mnt/c/Users/OvieBluecode/AppData/Local"

@@ -1,0 +1,66 @@
+2024-09-26 23:28:30.350 [info] [main] Log level: Info
+2024-09-26 23:28:30.350 [info] [main] Validating found git in: "git"
+2024-09-26 23:28:30.350 [info] [main] Using git "2.34.1" from "git"
+2024-09-26 23:28:30.350 [info] [Model][doInitialScan] Initial repository scan started
+2024-09-26 23:28:30.350 [info] > git rev-parse --show-toplevel [176ms]
+2024-09-26 23:28:30.350 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:30.490 [info] > git rev-parse --show-toplevel [20ms]
+2024-09-26 23:28:30.490 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:30.504 [info] > git rev-parse --show-toplevel [8ms]
+2024-09-26 23:28:30.504 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:30.529 [info] > git rev-parse --show-toplevel [19ms]
+2024-09-26 23:28:30.529 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:30.544 [info] > git rev-parse --show-toplevel [9ms]
+2024-09-26 23:28:30.544 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:30.556 [info] > git rev-parse --show-toplevel [8ms]
+2024-09-26 23:28:30.556 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:30.577 [info] > git rev-parse --show-toplevel [14ms]
+2024-09-26 23:28:30.577 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:30.683 [info] > git rev-parse --show-toplevel [94ms]
+2024-09-26 23:28:30.766 [info] > git rev-parse --git-dir --git-common-dir [75ms]
+2024-09-26 23:28:30.815 [info] [Model][openRepository] Opened repository: /mnt/c/Users/OvieBluecode/Documents/Python VsCode
+2024-09-26 23:28:31.066 [info] > git rev-parse --show-toplevel [189ms]
+2024-09-26 23:28:31.066 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:31.068 [info] > git config --get commit.template [220ms]
+2024-09-26 23:28:31.110 [info] > git rev-parse --show-toplevel [34ms]
+2024-09-26 23:28:31.110 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:31.152 [info] > git rev-parse --show-toplevel [37ms]
+2024-09-26 23:28:31.152 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:31.188 [info] > git rev-parse --show-toplevel [21ms]
+2024-09-26 23:28:31.189 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:31.217 [info] > git rev-parse --show-toplevel [14ms]
+2024-09-26 23:28:31.217 [info] fatal: not a git repository (or any parent up to mount point /mnt)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-09-26 23:28:31.234 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-09-26 23:28:31.386 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [333ms]
+2024-09-26 23:28:31.559 [info] > git check-ignore -v -z --stdin [83ms]
+2024-09-26 23:28:31.792 [info] > git status -z -uall [383ms]
+2024-09-26 23:28:31.853 [info] > git config --get commit.template [26ms]
+2024-09-26 23:28:32.205 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [407ms]
+2024-09-26 23:28:32.209 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [377ms]
+2024-09-26 23:28:32.231 [info] > git config --local branch.main.vscode-merge-base [22ms]
+2024-09-26 23:28:32.232 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-26 23:28:32.359 [info] > git reflog main --grep-reflog=branch: Created from *. [122ms]
+2024-09-26 23:28:32.395 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [32ms]
+2024-09-26 23:28:32.395 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-26 23:28:32.420 [info] > git status -z -uall [192ms]
+2024-09-26 23:28:32.548 [info] > git merge-base refs/heads/main refs/remotes/origin/main [147ms]
+2024-09-26 23:28:32.695 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [269ms]
+2024-09-26 23:28:32.730 [info] > git config --local branch.main.vscode-merge-base [26ms]
+2024-09-26 23:28:32.730 [warning] [Git][config] git config failed: Failed to execute git
+2024-09-26 23:28:32.801 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [229ms]
+2024-09-26 23:28:32.895 [info] > git reflog main --grep-reflog=branch: Created from *. [161ms]
+2024-09-26 23:28:32.937 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [37ms]
+2024-09-26 23:28:32.937 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-09-26 23:28:33.007 [info] > git diff --name-status -z --diff-filter=ADMR e606699c1fccd714db58181a73abde86e8eacc9e...refs/remotes/origin/main [200ms]

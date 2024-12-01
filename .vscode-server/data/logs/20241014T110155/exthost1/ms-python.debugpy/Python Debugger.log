@@ -1,0 +1,10 @@
+2024-10-14 11:02:15.479 [info] Name: Python Debugger
+2024-10-14 11:02:15.486 [info] Module: debugpy
+2024-10-14 16:55:03.211 [info] Resolving launch configuration with substituted variables
+2024-10-14 16:55:03.338 [info] DAP Server launched with command: /bin/python3 /root/.vscode-server/extensions/ms-python.debugpy-2024.10.0-linux-x64/bundled/libs/debugpy/adapter
+2024-10-14 16:55:07.017 [info] Received 'debugpySockets' event from debugpy.
+2024-10-14 16:55:07.023 [info] Received 'debugpySockets' event from debugpy.
+2024-10-14 16:55:07.131 [info] Received 'debugpySockets' event from debugpy.
+2024-10-14 16:55:10.648 [info] Received 'debugpySockets' event from debugpy.
+2024-10-14 16:55:10.767 [info] Received 'debugpySockets' event from debugpy.
+2024-10-14 16:55:10.819 [info] Received 'debugpySockets' event from debugpy.

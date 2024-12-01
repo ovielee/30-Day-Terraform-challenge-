@@ -1,0 +1,20 @@
+2024-09-24 16:17:22.975 [info] 
+
+
+
+
+2024-09-24 16:17:23.016 [info] Extension host agent started.
+2024-09-24 16:17:23.184 [info] [127.0.0.1][2fca61ca][ManagementConnection] New connection established.
+2024-09-24 16:17:23.901 [info] Deleted uninstalled extension from disk ms-azuretools.vscode-docker /root/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.1
+2024-09-24 16:17:24.422 [info] [127.0.0.1][bd69b856][ExtensionHostConnection] New connection established.
+2024-09-24 16:17:24.582 [info] [127.0.0.1][bd69b856][ExtensionHostConnection] <958> Launched Extension Host Process.
+2024-09-24 16:17:26.149 [error] EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.1.1ef84b6f.vsctmp'
+    at k.create (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:122:98497)
+    at P (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:122:98612)
+    at w.hb (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:128:28411)
+    at w.stat (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:128:20738)
+    at async o.stat (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:128:6667)
+    at async U.ub (/root/.vscode-server/bin/38c31bc77e0dd6ae88a4e9cc93428cc27a56ba40/out/vs/server/node/server.main.js:180:82718)
+2024-09-24 17:17:58.210 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-24 17:18:04.842 [info] [127.0.0.1][bd69b856][ExtensionHostConnection] The client has reconnected.
+2024-09-24 17:18:05.641 [info] [127.0.0.1][2fca61ca][ManagementConnection] The client has reconnected.

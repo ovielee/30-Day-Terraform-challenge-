@@ -1,0 +1,18 @@
+2024-10-18 08:58:35.799 [info] Starting Python Locator /root/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64/python-env-tools/bin/pet server
+2024-10-18 08:58:35.801 [info] Discovered manager: (Poetry) /root/.local/share/pypoetry/venv/bin/poetry
+2024-10-18 08:58:35.802 [info] Discovered env: /usr/bin/python3
+2024-10-18 08:58:35.803 [info] Discovered env: /bin/python3
+2024-10-18 08:58:41.926 [info] Locator Conda took 7.522493932s
+2024-10-18 08:58:41.926 [info] Locator Homebrew took 3.5604ms
+2024-10-18 08:58:41.926 [info] Locator LinuxGlobal took 113.224707ms
+2024-10-18 08:58:41.926 [info] Locator PipEnv took 53.9µs
+2024-10-18 08:58:41.927 [info] Locator Poetry took 460.8µs
+2024-10-18 08:58:41.927 [info] Locator PyEnv took 119.515008ms
+2024-10-18 08:58:41.927 [info] Locator Venv took 64µs
+2024-10-18 08:58:41.927 [info] Locator VirtualEnv took 109.5µs
+2024-10-18 08:58:41.927 [info] Locator VirtualEnvWrapper took 415.9µs
+2024-10-18 08:58:41.927 [info] Locator GlobalVirtualEnvs took 5.159201ms
+2024-10-18 08:58:41.927 [info] Locator Locators took 7.523379032s
+2024-10-18 08:58:41.927 [info] Locator Path took 1.273186287s
+2024-10-18 08:58:41.927 [info] Locator Workspaces took 1.073214873s
+2024-10-18 08:58:41.927 [info] Refresh completed in 7523ms

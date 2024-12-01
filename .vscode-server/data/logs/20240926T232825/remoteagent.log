@@ -1,0 +1,17 @@
+2024-09-26 23:28:25.514 [info] 
+
+
+
+
+2024-09-26 23:28:25.556 [info] Extension host agent started.
+2024-09-26 23:28:25.670 [info] [127.0.0.1][010928c7][ManagementConnection] New connection established.
+2024-09-26 23:28:25.995 [info] Deleted uninstalled extension from disk ms-azuretools.vscode-docker /root/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.2
+2024-09-26 23:28:26.165 [info] [127.0.0.1][36054621][ExtensionHostConnection] New connection established.
+2024-09-26 23:28:26.210 [info] [127.0.0.1][36054621][ExtensionHostConnection] <275351> Launched Extension Host Process.
+2024-09-27 03:57:32.879 [info] [127.0.0.1][010928c7][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-09-27 03:57:53.006 [warning] No ptyHost heartbeat after 6 seconds
+2024-09-27 11:02:32.694 [info] [127.0.0.1][010928c7][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+2024-09-27 11:02:32.695 [info] [127.0.0.1][010928c7][ManagementConnection] The client has reconnected.
+2024-09-27 11:02:32.700 [info] [127.0.0.1][36054621][ExtensionHostConnection] The client has reconnected.
+2024-09-27 17:18:52.250 [info] [127.0.0.1][010928c7][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-27 17:18:52.650 [info] [127.0.0.1][36054621][ExtensionHostConnection] <275351> Extension Host Process exited with code: 0, signal: null.

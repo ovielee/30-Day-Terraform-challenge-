@@ -1,0 +1,18 @@
+2024-09-26 23:27:24.720 [info] 
+
+
+
+
+2024-09-26 23:27:24.743 [info] Extension host agent started.
+2024-09-26 23:27:24.921 [info] [127.0.0.1][5f29ef07][ManagementConnection] New connection established.
+2024-09-26 23:27:25.599 [info] [127.0.0.1][efa25188][ExtensionHostConnection] New connection established.
+2024-09-26 23:27:25.643 [info] [127.0.0.1][efa25188][ExtensionHostConnection] <275059> Launched Extension Host Process.
+2024-09-26 23:27:30.949 [info] Getting Manifest... ms-azuretools.vscode-docker
+2024-09-26 23:27:31.268 [info] Installing extension: ms-azuretools.vscode-docker {"productVersion":{"version":"1.93.1","date":"2024-09-11T17:20:05.685Z"},"pinned":false,"isApplicationScoped":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/root/.vscode-server/extensions/extensions.json","external":"file:///root/.vscode-server/extensions/extensions.json","path":"/root/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-09-26 23:27:41.459 [info] Extension signature verification result for ms-azuretools.vscode-docker: Success. Executed: true. Duration: 8715ms.
+2024-09-26 23:27:42.164 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3: ms-azuretools.vscode-docker
+2024-09-26 23:27:42.194 [info] Renamed to /root/.vscode-server/extensions/ms-azuretools.vscode-docker-1.29.3
+2024-09-26 23:27:42.257 [info] Marked extension as uninstalled ms-azuretools.vscode-docker-1.29.2
+2024-09-26 23:27:42.263 [info] Extension installed successfully: ms-azuretools.vscode-docker file:///root/.vscode-server/extensions/extensions.json
+2024-09-26 23:27:45.124 [info] [127.0.0.1][5f29ef07][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-26 23:27:45.297 [info] [127.0.0.1][efa25188][ExtensionHostConnection] <275059> Extension Host Process exited with code: 0, signal: null.

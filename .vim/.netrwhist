@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/root/devops-stage-2-HNG/backend/app'
+let g:netrw_dirhist_2='/root/devops-stage-2-HNG/frontend/node_modules'
+let g:netrw_dirhist_1='/root/devops-stage-2-HNG/backend/app'
